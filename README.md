@@ -1,2 +1,2 @@
 # cyberdemo
-my quick fixes
+my quick fixes for all works
